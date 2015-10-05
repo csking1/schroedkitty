@@ -1,0 +1,2 @@
+# schroedkitty
+Shortcuts, useful tidbits
